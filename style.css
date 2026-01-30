@@ -1,36 +1,9 @@
-.title {
- background-color:#add8e6;
- text-align:center;
-};
-
-.click{
-  background-color:brown;
+.team{
+  width: 150px;          
+  height: 100px;         
+  border: 2px solid #000; 
+  background-color: white;
+  display: flex;
 }
 
-p{
-  text-align:center;
-  color: :#add8e6;
-  font-size: 25px;
-}
-
-.writing{
-  font-size: 27px;
-  font: Courier;
-}
-
-a{
-  background: #add8e6;
-  border: 1px solid #add8e6;
-  border-radius: 3px;
-  color: black;
-  display: inline-block;
-  margin: 0 auto ;
-  padding: 14px;
-  text-decoration: none;
-  text-align: center;
-  width: 125px;
-  font-size: 20px;
-}
-.share{
-  text-align:center;
-}
+ 
