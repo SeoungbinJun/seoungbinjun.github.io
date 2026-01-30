@@ -3,7 +3,9 @@
   height: 100px;         
   border: 2px solid #000; 
   background-color: 1340BF;
-  display: flex;
+  display: flex;          
+  gap: 20px;              
+  justify-content: center; 
 }
 
  .team ul {
@@ -12,6 +14,8 @@
   margin: 0;             
 }
 
-.h1{
-  align: center;
+h1{
+  text-align: center;
 }
+
+
